@@ -64,7 +64,7 @@ Measure the outcome that matters to the business—and consider the effort requi
 
 ## Download the Framework
 
-[**View or download the CKG Transformation Decision Framework (PDF)**](CKG_Transformation_Decision_Framework_v0.1.pdf)
+[Download the CKG Transformation Decision Framework (PDF)](CKG_Transformation_Decision_Framework_v0.1_FINAL.pdf)
 
 ---
 
